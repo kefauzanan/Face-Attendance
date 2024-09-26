@@ -1,4 +1,4 @@
-# Face Attendance
+# Face Attendance System
 
 Dengan meningkatnya kebutuhan akan sistem absensi yang efisien dan akurat, pengenalan wajah telah menjadi solusi yang semakin populer. Sistem tradisional sering kali rentan terhadap kecurangan dan kesalahan manusia. Oleh karena itu, proyek ini bertujuan untuk menciptakan sistem absensi yang menggunakan teknologi pengenalan wajah untuk memastikan kehadiran yang tepat dan otomatis. proyek ini diharapkan dapat meningkatkan efektivitas dan keakuratan pencatatan kehadiran di institusi pendidikan atau tempat kerja.
 
