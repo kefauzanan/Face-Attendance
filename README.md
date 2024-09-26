@@ -29,6 +29,6 @@ Sistem ini dirancang untuk mencatat kehadiran menggunakanDengan meningkatnya keb
 
 Proyek "Face Attendance" adalah sistem berbasis pengenalan wajah yang dirancang untuk mencatat kehadiran secara otomatis. Dengan menggunakan teknologi pemrosesan citra dan machine learning, sistem ini mengidentifikasi wajah peserta dan merekam kehadiran mereka.
 
-## Source
+## Source:
 
 https://github.com/KaivanKeren/face-attendance
